@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/-Keras-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
 
-🌱 I’m currently learning Electronics and Telecommunications Engineering.
+🌱 I’m major in Electronics and Telecommunications Engineering, with a passionate in Machine Learning and Deep Learning.
 
 📫 How to reach me: [luke-dinh.github.io](https://luke-dinh.github.io).
 
