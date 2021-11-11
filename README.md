@@ -7,7 +7,6 @@
 
 ![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-MatLab-e5cd0c?style=flat-square&logo=MatLab&logoColor=fff)
-![](https://img.shields.io/badge/-Keras-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
 
 🌱 I’m major in Electronics and Telecommunications Engineering, with a passionate in Machine Learning and Deep Learning.
